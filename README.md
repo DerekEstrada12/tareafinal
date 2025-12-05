@@ -16,7 +16,7 @@ Servidor local en modo desarrollo
 
 El objetivo es demostrar el ciclo completo de construcción de una aplicación web funcional usando Django.
 
-📥 Instalación y Ejecución
+Instalación y Ejecución
 
 Sigue estos pasos para correr el proyecto en tu computadora:
 
