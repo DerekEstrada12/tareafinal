@@ -1,5 +1,5 @@
 Proyecto Django – Aplicación Web Final
-📌 Descripción del Proyecto
+Descripción del Proyecto
 
 Este proyecto es una aplicación web desarrollada con Django, como parte de la tarea final del curso.
 Incluye la estructura completa de un proyecto Django con:
@@ -20,7 +20,7 @@ El objetivo es demostrar el ciclo completo de construcción de una aplicación w
 
 Sigue estos pasos para correr el proyecto en tu computadora:
 
-✅ 1. Clonar el repositorio
+1. Clonar el repositorio
 git clone https://github.com/tu_usuario/tu_repositorio.git
 
 
@@ -28,7 +28,7 @@ Entra en la carpeta:
 
 cd tu_repositorio
 
-✅ 2. Crear y activar el entorno virtual
+2. Crear y activar el entorno virtual
 
 Windows
 
@@ -41,16 +41,16 @@ Linux / Mac
 python3 -m venv venv
 source venv/bin/activate
 
-✅ 3. Instalar dependencias
+3. Instalar dependencias
 
 (Asegúrate de que el entorno virtual esté activo)
 
 pip install -r requirements.txt
 
-✅ 4. Aplicar migraciones
+4. Aplicar migraciones
 python manage.py migrate
 
-✅ 5. Ejecutar el servidor local
+ 5. Ejecutar el servidor local
 python manage.py runserver
 
 
@@ -58,7 +58,7 @@ La aplicación quedará disponible en:
 
 http://127.0.0.1:8000/
 
-📂 Estructura del Proyecto (ejemplo)
+Estructura del Proyecto (ejemplo)
 mi_proyecto/
 │── manage.py
 │── requirements.txt
